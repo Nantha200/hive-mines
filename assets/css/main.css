@@ -2064,9 +2064,9 @@ svg {
 }
 
 .btn--secondary {
-  padding: 14px 30px 12px;
+  padding: 14px 7px 12px;
   font-weight: 700;
-  background-color: var(--quaternary-color);
+  background-color: #f1b716;
   color: var(--septenary-color);
   position: relative;
   z-index: 1;
@@ -2881,7 +2881,7 @@ input:focus {
   border-bottom: 1px solid #39424c;
 }
 .header .navbar__logo img {
-  max-width: 40px;
+  max-width: 500px;
   height: auto;
 }
 .header .navbar {
@@ -2971,7 +2971,7 @@ input:focus {
 }
 .header .active > .navbar__dropdown-label,
 .header .active > a {
-  color: var(--quaternary-color);
+  color: #ffffff;
 }
 .header .navbar__sub-menu {
   position: absolute;
@@ -5023,7 +5023,7 @@ input:focus {
   right: 0px;
 }
 .banner .banner__thumb img {
-  max-width: 34vw;
+  max-width: 38vw;
   min-width: 120px;
   animation: move 1s linear infinite alternate-reverse;
 }
@@ -5963,7 +5963,7 @@ input:focus {
   z-index: -1;
 }
 .countdown .cartoon img {
-  max-width: 18vw;
+  max-width: 38vw;
 }
 
 .countdown-two::before {
@@ -9729,10 +9729,10 @@ input:focus {
   color: var(--primary-color);
 }
 .badges .thumb {
-  margin: 40px auto 0px;
+  margin: 24px auto 0px;
   width: 150px;
-  min-width: 150px;
-  height: 150px;
+  min-width: 90px;
+  height: 90px;
   border-radius: 50%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -15449,7 +15449,7 @@ input:focus {
     right: 15px;
   }
   .btn--secondary {
-    font-size: 18px;
+    font-size: 11px;
   }
   .slider-footer {
     gap: 24px;
@@ -16055,7 +16055,7 @@ input:focus {
     gap: 8px;
   }
   .header .navbar__logo img {
-    max-width: 30px;
+    max-width: 120px;
   }
   .header .navbar__items-wrapper,
   .header .navbar__items,
